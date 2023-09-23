@@ -7,7 +7,7 @@ I'm a data person 💻, Brazilian 🇧🇷, mathematician ➗ and trans 🏳️�
 
 Currently I'm working as **Data Scientist** and **Data Engineer**. I love to extract and explore open data sources and work with social problems with data.
 
-I have interests in those topics:
+I have interests in these topics:
 - Algorithms bias
 - Data for public policies
 - Exploring modern data pipelines
