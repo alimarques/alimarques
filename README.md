@@ -1,4 +1,4 @@
-## Hi! My name is Ali. Yes, just Ali 🤏
+# Hi! My name is Ali 😄
 
 ![](https://komarev.com/ghpvc/?username=alimarques)
 [![author](https://img.shields.io/badge/author-Ali_Marques-orange.svg)](https://www.linkedin.com/in/ali-marques/)
@@ -10,8 +10,8 @@ Currently I'm working as **Data Scientist** and **Data Engineer**. I love to ext
 I have interests in these topics:
 - Algorithms bias
 - Data for public policies
+- Data for Good and Open Source
 - Exploring modern data pipelines
-- Public transportation 🚇 *(well, long story...)*
 
 ## Get in touch with me 
 Send me a message at [LinkedIn](https://www.linkedin.com/in/ali-marques/), or send me an email: `ali.mrques@gmail.com`.
